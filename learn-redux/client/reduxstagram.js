@@ -8,6 +8,7 @@ import css from './styles/style.styl';
 import Main from './components/Main';
 import PhotoGrid from './components/PhotoGrid';
 import Single from './components/Single';
+
 // import react router deps
 import { Router, Route, IndexRoute, browserHistory } from 'react-router';
 
